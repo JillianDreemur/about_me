@@ -1,0 +1,50 @@
+body{
+    height: 100vh;
+    background-color: #565247;
+    font-family: "Times New Roman", Times, sans-serif;
+    font-size: larger;
+    text-align: left;
+}
+
+
+
+.container-base, .row-container{
+    height: 100%;
+  
+}
+
+footer{
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #202429;
+    color: lightgray;
+    height: 50px;
+    
+}
+
+p, h4{
+    padding: 0;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.c-footer{
+    padding-top: 1rem;
+}
+
+pre{
+    font-size: medium;
+}
+
+nav{
+    height: 60px;
+}
+
+.navbar-brand:hover{
+    color: #ab2869
+}
